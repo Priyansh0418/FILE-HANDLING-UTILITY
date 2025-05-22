@@ -139,3 +139,6 @@ GUI implementation (using JavaFX or Swing).
 Batch processing (handling multiple files at once).
 
 This task was a valuable learning experience in Java programming, debugging, and file manipulation.
+
+#OUTPUT:-
+![Image](https://github.com/user-attachments/assets/a721982b-d704-4c3d-87c1-ec2b7c600ec0)
